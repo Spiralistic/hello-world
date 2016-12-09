@@ -1,2 +1,3 @@
 # hello-world
-Well, you have to start sw
+Hi, I'm mato. In this video
+I will show you a game between...
